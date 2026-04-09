@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+aiosqlite
+httpx
+beautifulsoup4
+markdownify
+bcrypt
+pydantic
+pydantic-settings
+python-multipart
+apscheduler>=3.10,<4
