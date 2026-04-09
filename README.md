@@ -33,4 +33,4 @@ The app is served on **http://localhost:8000** by default.
 
 ## License
 
-No license file is included in this sample; treat as **all rights reserved** unless you add one.
+No `LICENSE` file is included; add one if you intend to redistribute or open-source this tree.
