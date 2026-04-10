@@ -38,4 +38,4 @@ No `LICENSE` file is included.
 ## Screenshot
 
 ![Example1](docs/test10-example.png)
-![Example2](docs/test10-example2.png)
+![Example2](docs/test-10-example2.png)
