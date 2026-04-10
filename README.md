@@ -34,3 +34,8 @@ The app is served on **http://localhost:8000** by default.
 ## License
 
 No `LICENSE` file is included.
+
+## Screenshot
+
+![Example1](docs/test10-example.png)
+![Example2](docs/test10-example2.png)
